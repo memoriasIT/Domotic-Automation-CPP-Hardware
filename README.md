@@ -7,3 +7,5 @@ There is implementation for the automation of light sensors, temperature control
 
 By using Modbus, this board is able to connect to other boards in series and communicate.
 It is also possible to connect to the UI, that could be shown in whatever device able to run Java.
+
+This was made during my university studies, so my university tutor really helped in this project.
